@@ -1,0 +1,6 @@
+AccountID,CustomerName,Email,PolicyNumber,AccountStatus
+1001,John Doe,johndoe@example.com,POL1234,Active
+1002,Jane Smith,janesmith@example.com,POL1235,Inactive
+1003,Bob Johnson,bobjohnson@example.com,POL1236,Active
+1004,Alice Williams,alicewilliams@example.com,POL1237,Pending
+
