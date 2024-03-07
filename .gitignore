@@ -1,0 +1,28 @@
+# Terraform files
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfvars
+
+# Python files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.egg-info/
+*.eggs/
+
+# IDE files
+.vscode/
+*.iml
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
