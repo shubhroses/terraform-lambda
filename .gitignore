@@ -1,5 +1,5 @@
 # Terraform files
-.terraform
+.terraform/*
 
 # Python files
 __pycache__/
