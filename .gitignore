@@ -1,8 +1,5 @@
 # Terraform files
-.terraform/
-*.tfstate
-*.tfstate.backup
-*.tfvars
+.terraform
 
 # Python files
 __pycache__/
@@ -26,3 +23,5 @@ build/
 # System files
 .DS_Store
 Thumbs.db
+
+.kafkaLibrary.zip
